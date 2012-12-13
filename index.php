@@ -12,3 +12,9 @@
 
 $test = 123;
 $test2 = "ABC";
+
+function myTest(){
+
+
+    return 'Hallo';
+}
